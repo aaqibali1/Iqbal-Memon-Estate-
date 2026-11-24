@@ -1,0 +1,6 @@
+{
+  "name": "Iqbal Memon Estate",
+  "description": "Your trusted real estate partner in DHA Phase 8, Karachi. Residential & commercial sale, purchase, rental, interactive DHA mapping, 3D architectural tours, and investment advisory.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
